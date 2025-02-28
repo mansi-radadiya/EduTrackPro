@@ -1,0 +1,12 @@
+E:\StudentManagement\EduTrackPro\Repositories\bin\Debug\net8.0\Repositories.deps.json
+E:\StudentManagement\EduTrackPro\Repositories\bin\Debug\net8.0\Repositories.dll
+E:\StudentManagement\EduTrackPro\Repositories\bin\Debug\net8.0\Repositories.pdb
+E:\StudentManagement\EduTrackPro\Repositories\obj\Debug\net8.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+E:\StudentManagement\EduTrackPro\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfoInputs.cache
+E:\StudentManagement\EduTrackPro\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfo.cs
+E:\StudentManagement\EduTrackPro\Repositories\obj\Debug\net8.0\Repositories.csproj.CoreCompileInputs.cache
+E:\StudentManagement\EduTrackPro\Repositories\obj\Debug\net8.0\Repositories.sourcelink.json
+E:\StudentManagement\EduTrackPro\Repositories\obj\Debug\net8.0\Repositories.dll
+E:\StudentManagement\EduTrackPro\Repositories\obj\Debug\net8.0\refint\Repositories.dll
+E:\StudentManagement\EduTrackPro\Repositories\obj\Debug\net8.0\Repositories.pdb
+E:\StudentManagement\EduTrackPro\Repositories\obj\Debug\net8.0\ref\Repositories.dll
