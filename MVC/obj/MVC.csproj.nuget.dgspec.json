@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Mansi\\IDP\\Tasks\\EduTrackPro\\MVC\\MVC.csproj": {}
+    "D:\\Dotnet_CP\\EduTrackPro\\MVC\\MVC.csproj": {}
   },
   "projects": {
-    "D:\\Mansi\\IDP\\Tasks\\EduTrackPro\\MVC\\MVC.csproj": {
+    "D:\\Dotnet_CP\\EduTrackPro\\MVC\\MVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Mansi\\IDP\\Tasks\\EduTrackPro\\MVC\\MVC.csproj",
+        "projectUniqueName": "D:\\Dotnet_CP\\EduTrackPro\\MVC\\MVC.csproj",
         "projectName": "MVC",
-        "projectPath": "D:\\Mansi\\IDP\\Tasks\\EduTrackPro\\MVC\\MVC.csproj",
-        "packagesPath": "C:\\Users\\mansi\\.nuget\\packages\\",
-        "outputPath": "D:\\Mansi\\IDP\\Tasks\\EduTrackPro\\MVC\\obj\\",
+        "projectPath": "D:\\Dotnet_CP\\EduTrackPro\\MVC\\MVC.csproj",
+        "packagesPath": "C:\\Users\\Harrine\\.nuget\\packages\\",
+        "outputPath": "D:\\Dotnet_CP\\EduTrackPro\\MVC\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\mansi\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Harrine\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,14 +22,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Mansi\\IDP\\Tasks\\EduTrackPro\\Repositories\\Repositories.csproj": {
-                "projectPath": "D:\\Mansi\\IDP\\Tasks\\EduTrackPro\\Repositories\\Repositories.csproj"
+              "D:\\Dotnet_CP\\EduTrackPro\\Repositories\\Repositories.csproj": {
+                "projectPath": "D:\\Dotnet_CP\\EduTrackPro\\Repositories\\Repositories.csproj"
               }
             }
           }
@@ -71,25 +68,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Mansi\\IDP\\Tasks\\EduTrackPro\\Repositories\\Repositories.csproj": {
+    "D:\\Dotnet_CP\\EduTrackPro\\Repositories\\Repositories.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Mansi\\IDP\\Tasks\\EduTrackPro\\Repositories\\Repositories.csproj",
+        "projectUniqueName": "D:\\Dotnet_CP\\EduTrackPro\\Repositories\\Repositories.csproj",
         "projectName": "Repositories",
-        "projectPath": "D:\\Mansi\\IDP\\Tasks\\EduTrackPro\\Repositories\\Repositories.csproj",
-        "packagesPath": "C:\\Users\\mansi\\.nuget\\packages\\",
-        "outputPath": "D:\\Mansi\\IDP\\Tasks\\EduTrackPro\\Repositories\\obj\\",
+        "projectPath": "D:\\Dotnet_CP\\EduTrackPro\\Repositories\\Repositories.csproj",
+        "packagesPath": "C:\\Users\\Harrine\\.nuget\\packages\\",
+        "outputPath": "D:\\Dotnet_CP\\EduTrackPro\\Repositories\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\mansi\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Harrine\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -97,6 +90,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -135,7 +129,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
