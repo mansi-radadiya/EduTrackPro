@@ -1,0 +1,37 @@
+@{
+    ViewData["Title"] = "Progress Tracking";
+    Layout = "../Shared/_TestLayout.cshtml";
+}
+
+<h1>Progress List</h1>
+
+<div id="progressTrackingGantt"></div>
+
+
+
+<script>
+    window.$ = window.jQuery;
+    console.log("jQuery Loaded:", typeof jQuery !== "undefined" ? jQuery.fn.jquery : "Not Loaded!");
+    $(document).ready(function () {
+        // Static data for Gantt Chart
+        var staticData = [
+            { id: 1, subjectId: "Mathematics", startDate: new Date(2024, 2, 1), endDate: new Date(2024, 5, 1), completion: 50 },
+            { id: 2, subjectId: "Science", startDate: new Date(2024, 1, 15), endDate: new Date(2024, 4, 15), completion: 75 },
+            { id: 3, subjectId: "History", startDate: new Date(2024, 3, 1), endDate: new Date(2024, 6, 1), completion: 20 }
+        ];
+
+        // Initialize Kendo UI Gantt
+        $("#progressTrackingGantt").kendoGantt({
+            dataSource: staticData,
+            columns: [
+                { field: "subjectId", title: "Subject", editable: false },
+                { field: "startDate", title: "Start Date", format: "{0:MM/dd/yyyy}", editable: true },
+                { field: "endDate", title: "End Date", format: "{0:MM/dd/yyyy}", editable: true },
+                { field: "completion", title: "Completion %", editable: true }
+            ]
+        });
+        
+    });
+
+
+</script>

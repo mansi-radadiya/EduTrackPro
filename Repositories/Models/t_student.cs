@@ -29,7 +29,15 @@ namespace Repositories.Models
         public DateTime c_enrollment_date {get; set;}
         public string c_image {get; set;}
         public IFormFile StudentImage{get; set;}
-        public string c_status {get; set;}
+        public Boolean c_status {get; set;}
         public DateTime c_created_at {get; set;}
+
+        public string? c_email {get; set;}
+        public string? c_password {get; set;}
+
+        public int? c_teacher_id{get; set;}
+
+        public string? c_teacher_name{get; set;}
+
     }
 }
