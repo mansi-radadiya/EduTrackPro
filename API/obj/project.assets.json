@@ -677,11 +677,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Dotnet_CP\\EduTrackPro\\API\\API.csproj",
+      "projectUniqueName": "D:\\Dotnet_CP\\Ketan Sir CP\\EduTrackPro\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "D:\\Dotnet_CP\\EduTrackPro\\API\\API.csproj",
+      "projectPath": "D:\\Dotnet_CP\\Ketan Sir CP\\EduTrackPro\\API\\API.csproj",
       "packagesPath": "C:\\Users\\Harrine\\.nuget\\packages\\",
-      "outputPath": "D:\\Dotnet_CP\\EduTrackPro\\API\\obj\\",
+      "outputPath": "D:\\Dotnet_CP\\Ketan Sir CP\\EduTrackPro\\API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Harrine\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -699,8 +699,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Dotnet_CP\\EduTrackPro\\Repositories\\Repositories.csproj": {
-              "projectPath": "D:\\Dotnet_CP\\EduTrackPro\\Repositories\\Repositories.csproj"
+            "D:\\Dotnet_CP\\Ketan Sir CP\\EduTrackPro\\Repositories\\Repositories.csproj": {
+              "projectPath": "D:\\Dotnet_CP\\Ketan Sir CP\\EduTrackPro\\Repositories\\Repositories.csproj"
             }
           }
         }

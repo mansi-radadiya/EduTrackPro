@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Dotnet_CP\\EduTrackPro\\Repositories\\Repositories.csproj",
+      "projectUniqueName": "D:\\Dotnet_CP\\Ketan Sir CP\\EduTrackPro\\Repositories\\Repositories.csproj",
       "projectName": "Repositories",
-      "projectPath": "D:\\Dotnet_CP\\EduTrackPro\\Repositories\\Repositories.csproj",
+      "projectPath": "D:\\Dotnet_CP\\Ketan Sir CP\\EduTrackPro\\Repositories\\Repositories.csproj",
       "packagesPath": "C:\\Users\\Harrine\\.nuget\\packages\\",
-      "outputPath": "D:\\Dotnet_CP\\EduTrackPro\\Repositories\\obj\\",
+      "outputPath": "D:\\Dotnet_CP\\Ketan Sir CP\\EduTrackPro\\Repositories\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Harrine\\AppData\\Roaming\\NuGet\\NuGet.Config",

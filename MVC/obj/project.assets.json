@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Dotnet_CP\\EduTrackPro\\MVC\\MVC.csproj",
+      "projectUniqueName": "D:\\Dotnet_CP\\Ketan Sir CP\\EduTrackPro\\MVC\\MVC.csproj",
       "projectName": "MVC",
-      "projectPath": "D:\\Dotnet_CP\\EduTrackPro\\MVC\\MVC.csproj",
+      "projectPath": "D:\\Dotnet_CP\\Ketan Sir CP\\EduTrackPro\\MVC\\MVC.csproj",
       "packagesPath": "C:\\Users\\Harrine\\.nuget\\packages\\",
-      "outputPath": "D:\\Dotnet_CP\\EduTrackPro\\MVC\\obj\\",
+      "outputPath": "D:\\Dotnet_CP\\Ketan Sir CP\\EduTrackPro\\MVC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Harrine\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,8 +54,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Dotnet_CP\\EduTrackPro\\Repositories\\Repositories.csproj": {
-              "projectPath": "D:\\Dotnet_CP\\EduTrackPro\\Repositories\\Repositories.csproj"
+            "D:\\Dotnet_CP\\Ketan Sir CP\\EduTrackPro\\Repositories\\Repositories.csproj": {
+              "projectPath": "D:\\Dotnet_CP\\Ketan Sir CP\\EduTrackPro\\Repositories\\Repositories.csproj"
             }
           }
         }
